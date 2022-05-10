@@ -1,0 +1,81 @@
+div.feature-box h3 {
+  text-align: center;
+  margin-top: 0;
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  padding: 10px;
+  font-size: 12px;
+}
+
+div.feature-box h4 {
+  text-align: center;
+  margin: 0;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+div.feature-box h2 {
+  text-align: center;
+  margin: 0;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+div.feature-box {
+  border-radius: 10px;
+  background: #eee;
+  padding: 0;
+  margin: 40;
+  border: 1px solid #3b3b3b;
+}
+
+div.padding {
+  padding: 10px;
+}
+
+i.fa.fa-check {
+  color: green;
+}
+
+i.fa.fa-remove {
+  color: #be0000;
+}
+
+.feature-box p {
+  font-size: 16px;
+  color: #fff;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.feature-box p i {
+  margin-right: 6px;
+}
+
+div#feature-box1 {
+  background: #3b3b3b;
+}
+
+div#feature-boxchild1 {
+  background: #7e7a7a;
+}
+
+div#feature-box2 {
+  background: #2EA072;
+}
+
+div#feature-box3 {
+  background: #7CB8D7;
+}
+
+div#feature-box4 {
+  background: #CE5777;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: "indie flower";
+}
+
